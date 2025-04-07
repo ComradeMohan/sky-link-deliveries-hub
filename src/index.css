@@ -122,7 +122,7 @@
   }
   
   .drone-path {
-    @apply stroke-skylink-500 stroke-2 fill-none stroke-dasharray-1000 stroke-dashoffset-1000;
+    @apply stroke-skylink-500 stroke-2 fill-none;
   }
   
   .section-title {

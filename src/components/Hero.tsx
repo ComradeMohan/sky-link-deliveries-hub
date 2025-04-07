@@ -17,6 +17,8 @@ const Hero = () => {
             d="M-100,300 C100,100 400,500 700,300 S1000,400 1300,200" 
             className="drone-path animate-draw"
             strokeLinecap="round"
+            strokeDasharray="1000"
+            strokeDashoffset="1000"
           />
           <circle cx="700" cy="300" r="5" className="fill-skylink-600 animate-pulse" />
         </svg>
