@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <div className="relative min-h-screen w-full pt-10 bg-gradient-to-b from-sky-50 to-white flex items-center">
+    <div className="relative min-h-screen w-full pt-15 bg-gradient-to-b from-sky-50 to-white flex items-center">
       {/* Background elements */}
       <div className="hidden lg:block absolute top-1/4 right-10 w-64 h-64 bg-skylink-100 rounded-full opacity-30 animate-pulse-light"></div>
       <div className="hidden lg:block absolute bottom-1/4 left-10 w-48 h-48 bg-teal-100 rounded-full opacity-30 animate-pulse-light"></div>
